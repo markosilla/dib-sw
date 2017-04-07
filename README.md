@@ -1,2 +1,0 @@
-# dib-sw
-DIBSW component

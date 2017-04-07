@@ -1,0 +1,3 @@
+SUBDIRS = \
+ dibc \
+ dibd
